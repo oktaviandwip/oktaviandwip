@@ -4,6 +4,6 @@
 <p align="center">
   </a>
   <a href="https://www.linkedin.com/in/oktaviandp/">
-    <img src="https://img.shields.io/badge/follow-%40EtishaGarg%206k+-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="Oktavian Dwi Putra's LinkedIn"/>
+    <img src="https://img.shields.io/badge/Oktavian Dwi Putra-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="Oktavian Dwi Putra's LinkedIn"/>
   </a>
 </p>
